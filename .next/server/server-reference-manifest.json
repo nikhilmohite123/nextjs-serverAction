@@ -1,0 +1,38 @@
+{
+  "node": {
+    "f2766726289d20d37785729c6f38ee75d09ebc75": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDELL%5C%5Ctodo-next.js%5C%5Cnext14-server-actions%5C%5Capp%5C%5Cactions%5C%5CtodoActions.tsx%22%2C%5B%22create%22%2C%22todoStatus%22%2C%22edit%22%2C%22deleteTodo%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "d58c6b31681f135ada37f3082b195c26edcd8205": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDELL%5C%5Ctodo-next.js%5C%5Cnext14-server-actions%5C%5Capp%5C%5Cactions%5C%5CtodoActions.tsx%22%2C%5B%22create%22%2C%22todoStatus%22%2C%22edit%22%2C%22deleteTodo%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "ef72425ac203ee267114c90be327daf40be87619": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDELL%5C%5Ctodo-next.js%5C%5Cnext14-server-actions%5C%5Capp%5C%5Cactions%5C%5CtodoActions.tsx%22%2C%5B%22create%22%2C%22todoStatus%22%2C%22edit%22%2C%22deleteTodo%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "7aea92128f33dc434c56f8b924e9c2b90b4ebe14": {
+      "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CDELL%5C%5Ctodo-next.js%5C%5Cnext14-server-actions%5C%5Capp%5C%5Cactions%5C%5CtodoActions.tsx%22%2C%5B%22create%22%2C%22todoStatus%22%2C%22edit%22%2C%22deleteTodo%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "/d4fiRH6ruDHlAaXEmTMloc8M/L8SQjHRdBIkhTvF7c="
+}
